@@ -3,6 +3,8 @@ body{
 }
 #alles{
   background-color: lightblue;
+  heigth: 100%;
+  width: 100%
 }
 #maandagDiv{
   background-color: blue;
