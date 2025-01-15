@@ -7,6 +7,11 @@ body{
   width: 100%
 }
 #maandagDiv{
+  background-color: lightblue;
+  height: 100%;
+  widht: 100%;
+}
+#M1{
   background-color: blue;
   height: 15%;
   width: 85%;
